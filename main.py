@@ -12,8 +12,9 @@ import os
 
 start_time = time.time()
 
+# WCC_matches folder contains a few games. You can download all games from Lichess or from another website and analyze them by setting games_annotated = False 
 # the main function will run the Fast GI calculator for each PGN file in the directory.
-input_main_pgn_dir = '/workspaces/World-Chess-Championships/WCCs'
+input_main_pgn_dir = '/workspaces/World-Chess-Championships/WCC_matches'
 for folder in os.listdir(input_main_pgn_dir): 
     # Set a variable folder_name store the folder name, note that "folder" is NOT the name.
 
