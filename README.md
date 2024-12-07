@@ -72,6 +72,7 @@ The following Python libraries are used:
 ## Reference
 - For more information, see https://doi.org/10.48550/arXiv.2302.13937
 - For more super GM games, see https://github.com/drmehmetismail/Performance-Metrics
+- For quickly calculating the stats for small number of games, see https://github.com/drmehmetismail/Game-Intelligence-for-Chess
 - For Engine vs Engine games (CCRL), see https://github.com/drmehmetismail/Engine-vs-engine-chess-stats
 - For Lichess games by regular players, see https://github.com/drmehmetismail/Chess-Data-Processing
 
