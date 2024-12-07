@@ -1,0 +1,45 @@
+[Event "World Championship Match 1921"]
+[Site "Havana CUB"]
+[Date "2021.11.29"]
+[Round "2"]
+[White "Lasker, Emanuel"]
+[Black "Capablanca, Jose Raul"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Barmen Variation"]
+[UTCDate "2021.11.29"]
+[UTCTime "17:59:37"]
+[Variant "Standard"]
+
+1. d4 { [%eval 0.24] } 1... d5 { [%eval 0.25] } 2. c4 { [%eval 0.24] } 2... e6
+{ [%eval 0.25] } 3. Nc3 { [%eval 0.19] } 3... Nf6 { [%eval 0.22] } 4. Nf3
+{ [%eval 0.19] } 4... Nbd7 { [%eval 0.22] } 5. e3 { [%eval 0.14] } 5... Be7
+{ [%eval 0.16] } 6. Bd3 { [%eval 0.1] } 6... O-O { [%eval 0.17] } 7. O-O
+{ [%eval 0.14] } 7... dxc4 { [%eval 0.13] } 8. Bxc4 { [%eval 0.1] } 8... c5
+{ [%eval 0.06] } 9. Qe2 { [%eval 0.2] } 9... a6 { [%eval 0.09] } 10. Rd1 $6
+{ [%eval -0.39] } ( 10. a4 ) 10... b5 { [%eval -0.41] } 11. Bd3
+{ [%eval -0.44] } 11... Bb7 { [%eval -0.32] } 12. e4 { [%eval -0.57] } 12...
+cxd4 { [%eval -0.61] } 13. Nxd4 { [%eval -0.58] } 13... Ne5 { [%eval -0.56] }
+14. Nb3 $6 { [%eval -1.39] } ( 14. Bc2 Qb6 ) 14... Nxd3 $6 { [%eval -0.48] } (
+14... b4 15. Na4 ) 15. Rxd3 { [%eval -0.6] } 15... Qc7 { [%eval -0.57] } 16. e5
+{ [%eval -0.57] } 16... Nd5 { [%eval -0.38] } 17. Rg3 { [%eval -0.37] } 17...
+Nxc3 { [%eval -0.26] } 18. Rxc3 { [%eval -0.29] } 18... Qd7 { [%eval -0.21] }
+19. Rg3 { [%eval -0.5] } 19... Rfd8 { [%eval -0.53] } 20. Bh6 { [%eval -0.51] }
+20... g6 { [%eval -0.52] } 21. Be3 { [%eval -1.29] } 21... Qd5
+{ [%eval -0.67] } 22. Na5 { [%eval -0.56] } 22... Rac8 { [%eval -0.47] } 23.
+Nxb7 { [%eval -0.55] } 23... Qxb7 { [%eval -0.51] } 24. Bh6 { [%eval -0.45] }
+24... Qd5 { [%eval -0.45] } 25. b3 { [%eval -0.72] } 25... Qd4
+{ [%eval -0.55] } 26. Rf1 { [%eval -0.51] } 26... Rd5 { [%eval -0.53] } 27. Re3
+{ [%eval -0.48] } 27... Ba3 $6 { [%eval -0.25] } ( 27... Qh4 28. Rh3 Qd4 29.
+Re3 Rcc5 30. g3 Rxe5 31. h4 Rxe3 32. Bxe3 Qe4 33. Qd2 Rc7 34. Bh6 ) 28. g3
+{ [%eval -0.26] } 28... Qb2 { [%eval -0.19] } 29. Re1 { [%eval -0.15] } 29...
+Rc2 { [%eval -0.11] } 30. Qf3 { [%eval -0.09] } 30... Be7 { [%eval 0.0] } 31.
+R3e2 { [%eval -0.0] } 31... Rxe2 { [%eval 0.0] } 32. Rxe2 { [%eval -0.08] }
+32... Qb1+ { [%eval -0.05] } 33. Kg2 { [%eval -0.0] } 33... Bf8 { [%eval 0.0] }
+34. Bf4 $2 { [%eval -0.92] } ( 34. Bxf8 Kxf8 35. Re3 Kg8 36. h4 Qxa2 37. Rc3
+Qd2 38. Rc7 Rd7 39. Rc8+ Rd8 40. Rc7 Rf8 ) 34... h6 $4 { [%eval -0.02] } (
+34... Rd1 35. h4 ) 35. h4 { [%eval -0.0] } 35... b4 { [%eval 0.0] } 36. Qe4
+{ [%eval -0.0] } 36... Qxe4+ { [%eval 0.0] } 37. Rxe4 { [%eval -0.0] } 37...
+Kg7 { [%eval 0.0] } 38. Rc4 { [%eval -0.02] } 38... Bc5 { [%eval 0.0] } 39. Kf3
+{ [%eval -0.0] } 39... g5 { [%eval 0.05] } 40. hxg5 { [%eval -0.0] } 40... hxg5
+{ [%eval 0.16] } 41. Bxg5 { [%eval 0.14] } 1/2-1/2
