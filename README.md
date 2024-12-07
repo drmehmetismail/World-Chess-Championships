@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a set of Python scripts designed for analyzing World Chess Championships games and calculating missed points, game intelligence (GI), and other metrics. You can either use chess engines like Stockfish and Lc0 to annotate chess games and compute performance statistics or upload already annotated games from e.g. https://lichess.org/page/world-championships.
+This repository contains a set of Python scripts designed for analyzing World Chess Championships games and calculating missed points, game intelligence (GI), and other metrics. You can either use chess engines like Stockfish and Lc0 to annotate chess games and compute performance statistics or upload pre-annotated games from e.g. https://lichess.org/page/world-championships. 
 
 
 ## Requirements
@@ -63,6 +63,9 @@ The following Python libraries are used:
 ### 9. `wcc_stats.py`
 - **Purpose**: Focused on analyzing World Chess Championship data. Exports a graph of average missed points over the years.
 
+### 10. `WCC_matches` folder
+- As an example, this folder contains Magnus Carlsen's World Chess Championship matches, analyzed with Stockfish 17 at depth 27.
+- It also contains two games analyzed with Leela Chess Zero with nodes_limit = 2500. This is for the sake of illustration, as no meaningful conclusions can be derived from these two games at this nodes level.
 ---
 
 ## Reference
