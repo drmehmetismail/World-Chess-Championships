@@ -1,0 +1,48 @@
+[Event "FIDE World Championship Match 2014"]
+[Site "Sochi RUS"]
+[Date "2021.11.29"]
+[Round "10"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2863"]
+[BlackFideId "1503014"]
+[BlackTitle "GM"]
+[ECO "D97"]
+[Opening "Grünfeld Defense: Russian Variation, Prins Variation"]
+[TimeControl "40/7200:20/3600:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:30:43"]
+[Variant "Standard"]
+[WhiteElo "2792"]
+[WhiteFideId "5000017"]
+[WhiteTitle "GM"]
+
+1. d4 { [%eval 0.24] } 1... Nf6 { [%eval 0.29] } 2. c4 { [%eval 0.32] } 2... g6
+{ [%eval 0.38] } 3. Nc3 { [%eval 0.25] } 3... d5 { [%eval 0.25] } 4. Nf3
+{ [%eval 0.28] } 4... Bg7 { [%eval 0.26] } 5. Qb3 { [%eval 0.29] } 5... dxc4
+{ [%eval 0.26] } 6. Qxc4 { [%eval 0.25] } 6... O-O { [%eval 0.32] } 7. e4
+{ [%eval 0.25] } 7... Na6 { [%eval 0.58] } 8. Be2 { [%eval 0.61] } 8... c5
+{ [%eval 0.63] } 9. d5 { [%eval 0.64] } 9... e6 { [%eval 0.52] } 10. O-O
+{ [%eval 0.63] } 10... exd5 { [%eval 0.56] } 11. exd5 { [%eval 0.53] } 11...
+Re8 { [%eval 0.61] } 12. Bg5 $6 { [%eval 0.3] } ( 12. Rd1 h6 13. Bf4 g5 14. Bg3
+Nh5 15. Rd2 Nxg3 16. hxg3 Bd7 17. d6 Qb6 18. Rad1 Rad8 ) 12... h6
+{ [%eval 0.32] } 13. Be3 { [%eval 0.18] } 13... Bf5 { [%eval 0.23] } 14. Rad1
+{ [%eval 0.21] } 14... Ne4 { [%eval 0.4] } 15. Nxe4 { [%eval 0.24] } 15... Bxe4
+$6 { [%eval 0.74] } ( 15... Rxe4 16. Qc1 ) 16. Qc1 $6 { [%eval 0.37] } ( 16. d6
+Re6 17. Rd2 Qf6 18. Rfd1 Rd8 19. d7 Bc6 20. Qc1 Kh7 21. Bxa6 bxa6 22. Qxc5 Bxf3
+) 16... Qf6 { [%eval 0.23] } 17. Bxh6 { [%eval 0.16] } 17... Qxb2
+{ [%eval 0.7] } 18. Qxb2 { [%eval 0.76] } 18... Bxb2 { [%eval 0.59] } 19. Ng5
+{ [%eval 0.53] } 19... Bd4 { [%eval 0.54] } 20. Nxe4 { [%eval 0.34] } 20...
+Rxe4 { [%eval 0.28] } 21. Bf3 { [%eval 0.34] } 21... Re7 { [%eval 0.41] } 22.
+d6 { [%eval 0.29] } 22... Rd7 { [%eval 0.26] } 23. Bf4 { [%eval 0.41] } 23...
+Nb4 { [%eval 0.3] } 24. Rd2 { [%eval 0.26] } 24... Re8 { [%eval 0.23] } 25. Rc1
+{ [%eval 0.25] } 25... Re6 $6 { [%eval 0.23] } ( 25... Bb2 26. Rxb2 Nd3 27. Be2
+Nxb2 28. Bb5 Re4 29. Bxd7 Rxf4 30. g3 Rd4 31. Rxc5 Nc4 32. Ba4 ) 26. h4 $6
+{ [%eval 0.03] } ( 26. g3 ) 26... Be5 { [%eval 0.07] } 27. Bxe5
+{ [%eval 0.04] } 27... Rxe5 { [%eval 0.06] } 28. Bxb7 { [%eval -0.05] } 28...
+Rxb7 { [%eval -0.03] } 29. d7 { [%eval -0.0] } 29... Nc6 { [%eval 0.0] } 30.
+d8=Q+ { [%eval -0.0] } 30... Nxd8 { [%eval 0.0] } 31. Rxd8+ { [%eval -0.0] }
+31... Kg7 { [%eval 0.0] } 32. Rd2 { [%eval -0.0] } 1/2-1/2
+

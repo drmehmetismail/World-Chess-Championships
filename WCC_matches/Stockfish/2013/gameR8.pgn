@@ -1,0 +1,45 @@
+[Event "FIDE World Championship Match 2013"]
+[Site "Chennai IND"]
+[Date "2021.11.29"]
+[Round "8"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2775"]
+[BlackFideId "5000017"]
+[BlackTitle "GM"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "40/7200:20/3600:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:29:08"]
+[Variant "Standard"]
+[WhiteElo "2870"]
+[WhiteFideId "1503014"]
+[WhiteTitle "GM"]
+
+1. e4 { [%eval 0.27] } 1... e5 { [%eval 0.28] } 2. Nf3 { [%eval 0.22] } 2...
+Nc6 { [%eval 0.2] } 3. Bb5 { [%eval 0.14] } 3... Nf6 { [%eval 0.15] } 4. O-O
+{ [%eval 0.25] } 4... Nxe4 { [%eval 0.19] } 5. Re1 { [%eval 0.15] } 5... Nd6
+{ [%eval 0.14] } 6. Nxe5 { [%eval 0.24] } 6... Be7 { [%eval 0.2] } 7. Bf1
+{ [%eval 0.13] } 7... Nxe5 { [%eval 0.2] } 8. Rxe5 { [%eval 0.22] } 8... O-O
+{ [%eval 0.24] } 9. d4 { [%eval 0.22] } 9... Bf6 { [%eval 0.31] } 10. Re1
+{ [%eval 0.25] } 10... Re8 { [%eval 0.34] } 11. c3 { [%eval 0.19] } 11... Rxe1
+{ [%eval 0.19] } 12. Qxe1 { [%eval 0.21] } 12... Ne8 { [%eval 0.09] } 13. Bf4
+{ [%eval 0.08] } 13... d5 { [%eval 0.15] } 14. Bd3 { [%eval 0.05] } 14... g6
+{ [%eval 0.06] } 15. Nd2 { [%eval 0.03] } 15... Ng7 { [%eval 0.07] } 16. Qe2
+{ [%eval 0.04] } 16... c6 { [%eval 0.03] } 17. Re1 { [%eval -0.02] } 17... Bf5
+{ [%eval 0.04] } 18. Bxf5 { [%eval 0.07] } 18... Nxf5 { [%eval 0.1] } 19. Nf3
+{ [%eval 0.04] } 19... Ng7 { [%eval 0.06] } 20. Be5 { [%eval 0.05] } 20... Ne6
+{ [%eval 0.04] } 21. Bxf6 { [%eval -0.03] } 21... Qxf6 { [%eval -0.04] } 22.
+Ne5 { [%eval -0.03] } 22... Re8 { [%eval -0.04] } 23. Ng4 { [%eval -0.05] }
+23... Qd8 { [%eval -0.03] } 24. Qe5 { [%eval -0.03] } 24... Ng7
+{ [%eval -0.02] } 25. Qxe8+ { [%eval -0.02] } 25... Nxe8 { [%eval -0.02] } 26.
+Rxe8+ { [%eval -0.02] } 26... Qxe8 { [%eval -0.02] } 27. Nf6+ { [%eval -0.01] }
+27... Kf8 { [%eval -0.01] } 28. Nxe8 { [%eval -0.01] } 28... Kxe8
+{ [%eval -0.01] } 29. f4 { [%eval -0.03] } 29... f5 { [%eval 0.0] } 30. Kf2
+{ [%eval -0.0] } 30... b5 { [%eval 0.0] } 31. b4 { [%eval -0.0] } 31... Kf7
+{ [%eval 0.0] } 32. h3 { [%eval -0.0] } 32... h6 { [%eval 0.0] } 33. h4
+{ [%eval -0.0] } 33... h5 { [%eval 0.0] } 1/2-1/2
+

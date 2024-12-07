@@ -1,0 +1,48 @@
+[Event "FIDE World Championship Match 2014"]
+[Site "Sochi RUS"]
+[Date "2021.11.29"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2863"]
+[BlackFideId "1503014"]
+[BlackTitle "GM"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense, Blockade Line"]
+[TimeControl "40/7200:20/3600:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:30:43"]
+[Variant "Standard"]
+[WhiteElo "2792"]
+[WhiteFideId "5000017"]
+[WhiteTitle "GM"]
+
+1. d4 { [%eval 0.24] } 1... Nf6 { [%eval 0.29] } 2. c4 { [%eval 0.32] } 2... e6
+{ [%eval 0.32] } 3. Nf3 { [%eval 0.2] } 3... d5 { [%eval 0.19] } 4. Nc3
+{ [%eval 0.2] } 4... Be7 { [%eval 0.23] } 5. Bf4 { [%eval 0.27] } 5... O-O
+{ [%eval 0.27] } 6. e3 { [%eval 0.2] } 6... Nbd7 { [%eval 0.32] } 7. c5
+{ [%eval 0.28] } 7... c6 { [%eval 0.35] } 8. Bd3 { [%eval 0.33] } 8... b6
+{ [%eval 0.09] } 9. b4 { [%eval 0.19] } 9... a5 { [%eval 0.13] } 10. a3
+{ [%eval 0.2] } 10... Ba6 { [%eval 0.13] } 11. Bxa6 { [%eval 0.18] } 11... Rxa6
+{ [%eval -0.01] } 12. b5 { [%eval -0.12] } 12... cxb5 { [%eval -0.21] } 13. c6
+{ [%eval -0.23] } 13... Qc8 { [%eval -0.25] } 14. c7 { [%eval -0.25] } 14... b4
+{ [%eval -0.25] } 15. Nb5 { [%eval -0.24] } 15... a4 { [%eval -0.27] } 16. Rc1
+{ [%eval -0.2] } 16... Ne4 { [%eval 0.09] } 17. Ng5 { [%eval 0.13] } 17... Ndf6
+{ [%eval 0.18] } 18. Nxe4 { [%eval -0.0] } 18... Nxe4 { [%eval 0.48] } 19. f3
+{ [%eval 0.03] } 19... Ra5 $2 { [%eval 1.46] } ( 19... Nc3 20. Nxc3 ) 20. fxe4
+{ [%eval 1.32] } 20... Rxb5 { [%eval 1.43] } 21. Qxa4 { [%eval 1.28] } 21...
+Ra5 { [%eval 1.49] } 22. Qc6 { [%eval 1.36] } 22... bxa3 { [%eval 1.19] } 23.
+exd5 { [%eval 1.24] } 23... Rxd5 { [%eval 1.62] } 24. Qxb6 { [%eval 1.53] }
+24... Qd7 { [%eval 1.59] } 25. O-O { [%eval 1.1] } 25... Rc8 { [%eval 0.96] }
+26. Rc6 $6 { [%eval 0.5] } ( 26. Qa6 Rb5 27. Qa4 g5 28. Bg3 Rd5 29. Qa6 Rb5 30.
+h3 Kg7 31. e4 Qxd4+ 32. Bf2 Qd7 ) 26... g5 $6 { [%eval 1.29] } ( 26... Bf6 27.
+Qa6 e5 28. dxe5 Bxe5 29. Bxe5 Rxe5 30. Rfc1 Rd5 31. Qxa3 Rd1+ 32. Rxd1 Qxd1+
+33. Kf2 ) 27. Bg3 { [%eval 1.35] } 27... Bb4 { [%eval 1.42] } 28. Ra1
+{ [%eval 1.39] } 28... Ba5 { [%eval 1.91] } 29. Qa6 { [%eval 2.23] } 29... Bxc7
+$2 { [%eval 3.61] } ( 29... Rxc7 30. Bxc7 ) 30. Qc4 { [%eval 3.67] } 30... e5
+{ [%eval 4.11] } 31. Bxe5 { [%eval 4.6] } 31... Rxe5 { [%eval 4.63] } 32. dxe5
+{ [%eval 4.67] } 32... Qe7 { [%eval 4.68] } 33. e6 { [%eval 4.94] } 33... Kf8
+{ [%eval 5.47] } 34. Rc1 { [%eval 5.73] } 1-0
+

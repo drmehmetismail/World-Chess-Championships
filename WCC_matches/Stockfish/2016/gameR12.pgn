@@ -1,0 +1,43 @@
+[Event "FIDE World Championship Match 2016"]
+[Site "New York USA"]
+[Date "2021.11.29"]
+[Round "12"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2772"]
+[BlackFideId "14109603"]
+[BlackTitle "GM"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "40/6000:20/3000:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:32:01"]
+[Variant "Standard"]
+[WhiteElo "2853"]
+[WhiteFideId "1503014"]
+[WhiteTitle "GM"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... Nf6 { [%eval 0.2] } 4. O-O
+{ [%eval 0.22] } 4... Nxe4 { [%eval 0.18] } 5. Re1 { [%eval 0.21] } 5... Nd6
+{ [%eval 0.19] } 6. Nxe5 { [%eval 0.18] } 6... Be7 { [%eval 0.17] } 7. Bf1
+{ [%eval 0.17] } 7... Nxe5 { [%eval 0.15] } 8. Rxe5 { [%eval 0.15] } 8... O-O
+{ [%eval 0.27] } 9. d4 { [%eval 0.19] } 9... Bf6 { [%eval 0.18] } 10. Re1
+{ [%eval 0.17] } 10... Re8 { [%eval 0.22] } 11. Bf4 { [%eval 0.09] } 11... Rxe1
+{ [%eval 0.11] } 12. Qxe1 { [%eval 0.09] } 12... Ne8 { [%eval 0.15] } 13. c3
+{ [%eval 0.13] } 13... d5 { [%eval 0.11] } 14. Bd3 { [%eval 0.05] } 14... g6
+{ [%eval 0.09] } 15. Na3 { [%eval -0.14] } 15... c6 { [%eval -0.03] } 16. Nc2
+{ [%eval -0.07] } 16... Ng7 { [%eval -0.06] } 17. Qd2 { [%eval -0.11] } 17...
+Bf5 { [%eval -0.05] } 18. Bxf5 { [%eval -0.05] } 18... Nxf5 { [%eval -0.01] }
+19. Ne3 { [%eval -0.09] } 19... Nxe3 { [%eval -0.04] } 20. Qxe3
+{ [%eval -0.03] } 20... Qe7 { [%eval -0.05] } 21. Qxe7 { [%eval -0.04] } 21...
+Bxe7 { [%eval -0.06] } 22. Re1 { [%eval -0.07] } 22... Bf8 { [%eval -0.04] }
+23. Kf1 { [%eval -0.1] } 23... f6 { [%eval -0.1] } 24. g4 { [%eval -0.12] }
+24... Kf7 { [%eval -0.11] } 25. h3 { [%eval -0.08] } 25... Re8
+{ [%eval -0.08] } 26. Rxe8 { [%eval -0.06] } 26... Kxe8 { [%eval -0.04] } 27.
+Ke2 { [%eval -0.03] } 27... Kd7 { [%eval -0.02] } 28. Kd3 { [%eval -0.01] }
+28... Ke6 { [%eval -0.01] } 29. a4 { [%eval -0.06] } 29... a6 { [%eval -0.02] }
+30. f3 { [%eval -0.0] } 30... Be7 { [%eval 0.0] } 1/2-1/2
+

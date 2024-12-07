@@ -1,0 +1,58 @@
+[Event "FIDE World Championship Match 2014"]
+[Site "Sochi RUS"]
+[Date "2021.11.29"]
+[Round "11"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2792"]
+[BlackFideId "5000017"]
+[BlackTitle "GM"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense"]
+[TimeControl "40/7200:20/3600:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:30:43"]
+[Variant "Standard"]
+[WhiteElo "2863"]
+[WhiteFideId "1503014"]
+[WhiteTitle "GM"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... Nf6 { [%eval 0.2] } 4. O-O
+{ [%eval 0.22] } 4... Nxe4 { [%eval 0.18] } 5. d4 { [%eval 0.13] } 5... Nd6
+{ [%eval 0.07] } 6. Bxc6 { [%eval 0.08] } 6... dxc6 { [%eval 0.07] } 7. dxe5
+{ [%eval 0.07] } 7... Nf5 { [%eval 0.17] } 8. Qxd8+ { [%eval 0.1] } 8... Kxd8
+{ [%eval 0.1] } 9. h3 { [%eval 0.06] } 9... Bd7 { [%eval 0.14] } 10. Nc3
+{ [%eval 0.05] } 10... h6 { [%eval 0.03] } 11. b3 { [%eval 0.07] } 11... Kc8
+{ [%eval 0.17] } 12. Bb2 { [%eval 0.21] } 12... c5 { [%eval 0.28] } 13. Rad1
+{ [%eval 0.2] } 13... b6 { [%eval 0.26] } 14. Rfe1 { [%eval -0.0] } 14... Be6
+{ [%eval 0.12] } 15. Nd5 { [%eval 0.1] } 15... g5 { [%eval 0.14] } 16. c4
+{ [%eval 0.06] } 16... Kb7 { [%eval 0.08] } 17. Kh2 { [%eval -0.07] } 17... a5
+{ [%eval 0.06] } 18. a4 { [%eval 0.1] } 18... Ne7 { [%eval 0.1] } 19. g4
+{ [%eval -0.04] } 19... Ng6 { [%eval 0.39] } 20. Kg3 { [%eval 0.39] } 20... Be7
+{ [%eval 0.49] } 21. Nd2 { [%eval 0.38] } 21... Rhd8 { [%eval 0.41] } 22. Ne4
+{ [%eval 0.13] } 22... Bf8 { [%eval 0.06] } 23. Nef6 $6 { [%eval -0.44] } ( 23.
+f3 Bg7 24. Ndf6 Rxd1 25. Rxd1 Rh8 26. Bc3 Rf8 27. Nf2 Bc8 28. Re1 Bxf6 29. exf6
+Rd8 ) 23... b5 { [%eval -0.45] } 24. Bc3 { [%eval -0.35] } 24... bxa4
+{ [%eval 0.03] } 25. bxa4 { [%eval -0.0] } 25... Kc6 { [%eval 0.0] } 26. Kf3 $6
+{ [%eval -0.64] } ( 26. h4 ) 26... Rdb8 $6 { [%eval -0.36] } ( 26... Be7 ) 27.
+Ke4 { [%eval -0.51] } 27... Rb4 $6 { [%eval 0.0] } ( 27... Rb3 28. h4 Nxh4 29.
+Rb1 Rab8 30. Rxb3 Rxb3 31. Rc1 Bg7 32. Ne8 Bh8 33. f3 Nxf3 34. Kxf3 ) 28. Bxb4
+{ [%eval -0.0] } 28... cxb4 $4 { [%eval 1.54] } ( 28... axb4 29. Rb1 Bg7 30.
+Ra1 Rd8 31. Rad1 Rh8 32. Rb1 ) 29. Nh5 { [%eval 0.88] } 29... Kb7
+{ [%eval 1.49] } 30. f4 { [%eval 1.71] } 30... gxf4 { [%eval 1.79] } 31. Nhxf4
+{ [%eval 1.95] } 31... Nxf4 $2 { [%eval 2.41] } ( 31... Bd7 32. Nxg6 fxg6 33.
+Rf1 Bxa4 34. Rd2 Bc5 35. Rf7 Rc8 36. Rb2 Be8 37. Rh7 Kb8 38. e6 ) 32. Nxf4
+{ [%eval 2.66] } 32... Bxc4 { [%eval 2.84] } 33. Rd7 { [%eval 2.83] } 33... Ra6
+{ [%eval 3.2] } 34. Nd5 { [%eval 3.6] } 34... Rc6 { [%eval 3.8] } 35. Rxf7
+{ [%eval 3.56] } 35... Bc5 { [%eval 3.72] } 36. Rxc7+ { [%eval 3.82] } 36...
+Rxc7 { [%eval 3.82] } 37. Nxc7 { [%eval 3.76] } 37... Kc6 $6 { [%eval 4.49] } (
+37... b3 38. Ne8 ) 38. Nb5 { [%eval 3.9] } 38... Bxb5 { [%eval 3.96] } 39.
+axb5+ { [%eval 3.91] } 39... Kxb5 { [%eval 4.13] } 40. e6 { [%eval 3.98] }
+40... b3 { [%eval 5.43] } 41. Kd3 { [%eval 5.39] } 41... Be7 { [%eval 5.22] }
+42. h4 { [%eval 5.03] } 42... a4 { [%eval 5.08] } 43. g5 { [%eval 5.13] } 43...
+hxg5 { [%eval 5.23] } 44. hxg5 { [%eval 5.42] } 44... a3 { [%eval 5.42] } 45.
+Kc3 { [%eval 5.42] } 1-0
+

@@ -1,0 +1,44 @@
+[Event "FIDE World Championship Match 2016"]
+[Site "New York USA"]
+[Date "2021.11.29"]
+[Round "6"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2853"]
+[BlackFideId "1503014"]
+[BlackTitle "GM"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed"]
+[TimeControl "40/6000:20/3000:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:32:01"]
+[Variant "Standard"]
+[WhiteElo "2772"]
+[WhiteFideId "14109603"]
+[WhiteTitle "GM"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... a6 { [%eval 0.32] } 4. Ba4
+{ [%eval 0.26] } 4... Nf6 { [%eval 0.33] } 5. O-O { [%eval 0.32] } 5... Be7
+{ [%eval 0.34] } 6. Re1 { [%eval 0.31] } 6... b5 { [%eval 0.31] } 7. Bb3
+{ [%eval 0.29] } 7... O-O { [%eval 0.36] } 8. h3 { [%eval 0.22] } 8... Bb7
+{ [%eval 0.16] } 9. d3 { [%eval 0.28] } 9... d5 { [%eval 0.26] } 10. exd5
+{ [%eval 0.27] } 10... Nxd5 { [%eval 0.16] } 11. Nxe5 { [%eval 0.11] } 11...
+Nd4 { [%eval 0.13] } 12. Nc3 { [%eval 0.11] } 12... Nb4 { [%eval 0.21] } 13.
+Bf4 $6 { [%eval -0.22] } ( 13. a3 ) 13... Nxb3 { [%eval -0.06] } 14. axb3
+{ [%eval -0.06] } 14... c5 { [%eval 0.22] } 15. Ne4 { [%eval 0.12] } 15... f6
+{ [%eval 0.14] } 16. Nf3 { [%eval 0.18] } 16... f5 { [%eval 0.16] } 17. Neg5
+{ [%eval 0.13] } 17... Bxg5 { [%eval 0.14] } 18. Nxg5 { [%eval 0.11] } 18... h6
+{ [%eval 0.12] } 19. Ne6 { [%eval 0.09] } 19... Qd5 { [%eval 0.09] } 20. f3
+{ [%eval 0.12] } 20... Rfe8 { [%eval 0.09] } 21. Re5 { [%eval 0.12] } 21... Qd6
+{ [%eval 0.14] } 22. c3 { [%eval 0.1] } 22... Rxe6 { [%eval 0.16] } 23. Rxe6
+{ [%eval 0.16] } 23... Qxe6 { [%eval 0.08] } 24. cxb4 { [%eval 0.06] } 24...
+cxb4 { [%eval 0.09] } 25. Rc1 { [%eval 0.08] } 25... Rc8 { [%eval 0.02] } 26.
+Rxc8+ { [%eval 0.01] } 26... Qxc8 { [%eval 0.04] } 27. Qe1 { [%eval 0.06] }
+27... Qd7 { [%eval 0.01] } 28. Kh2 { [%eval 0.06] } 28... a5 { [%eval 0.11] }
+29. Qe3 { [%eval -0.0] } 29... Bd5 { [%eval 0.0] } 30. Qb6 { [%eval -0.0] }
+30... Bxb3 { [%eval 0.0] } 31. Qxa5 { [%eval -0.0] } 31... Qxd3 { [%eval 0.0] }
+32. Qxb4 { [%eval -0.0] } 32... Be6 { [%eval 0.0] } 1/2-1/2
+

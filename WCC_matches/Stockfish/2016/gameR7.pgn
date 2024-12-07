@@ -1,0 +1,45 @@
+[Event "FIDE World Championship Match 2016"]
+[Site "New York USA"]
+[Date "2021.11.29"]
+[Round "7"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2853"]
+[BlackFideId "1503014"]
+[BlackTitle "GM"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "40/6000:20/3000:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:32:01"]
+[Variant "Standard"]
+[WhiteElo "2772"]
+[WhiteFideId "14109603"]
+[WhiteTitle "GM"]
+
+1. d4 { [%eval 0.24] } 1... d5 { [%eval 0.25] } 2. c4 { [%eval 0.24] } 2... c6
+{ [%eval 0.23] } 3. Nc3 { [%eval 0.3] } 3... Nf6 { [%eval 0.23] } 4. e3
+{ [%eval 0.16] } 4... a6 { [%eval 0.23] } 5. Bd3 { [%eval 0.14] } 5... dxc4
+{ [%eval 0.17] } 6. Bxc4 { [%eval 0.16] } 6... e6 { [%eval 0.15] } 7. Nf3
+{ [%eval 0.12] } 7... c5 { [%eval 0.05] } 8. O-O { [%eval 0.09] } 8... b5
+{ [%eval 0.02] } 9. Be2 { [%eval 0.1] } 9... Bb7 { [%eval 0.27] } 10. dxc5
+{ [%eval 0.27] } 10... Nc6 { [%eval 0.22] } 11. Nd2 $2 { [%eval -0.24] } ( 11.
+Qxd8+ ) 11... Bxc5 { [%eval -0.29] } 12. Nde4 { [%eval -0.26] } 12... Nxe4
+{ [%eval -0.2] } 13. Nxe4 { [%eval -0.23] } 13... Be7 { [%eval -0.2] } 14. b3
+{ [%eval -0.19] } 14... Nb4 { [%eval -0.15] } 15. Bf3 { [%eval -0.15] } 15...
+O-O { [%eval -0.1] } 16. Ba3 { [%eval -0.05] } 16... Rc8 $6 { [%eval 0.09] } (
+16... Bd5 ) 17. Nf6+ { [%eval 0.08] } 17... Bxf6 { [%eval 0.15] } 18. Bxb7
+{ [%eval 0.15] } 18... Bxa1 { [%eval 0.12] } 19. Bxb4 { [%eval 0.17] } 19...
+Bf6 { [%eval 0.25] } 20. Bxf8 { [%eval 0.26] } 20... Qxd1 { [%eval 0.27] } 21.
+Rxd1 { [%eval 0.26] } 21... Rxf8 { [%eval 0.3] } 22. Bxa6 { [%eval 0.08] }
+22... b4 { [%eval 0.1] } 23. Rc1 { [%eval 0.08] } 23... g6 { [%eval 0.09] } 24.
+Rc2 { [%eval 0.07] } 24... Ra8 { [%eval 0.04] } 25. Bd3 { [%eval 0.08] } 25...
+Rd8 { [%eval 0.1] } 26. Be2 { [%eval 0.12] } 26... Kf8 { [%eval 0.13] } 27. Kf1
+{ [%eval 0.13] } 27... Ra8 { [%eval 0.13] } 28. Bc4 { [%eval 0.15] } 28... Rc8
+{ [%eval 0.15] } 29. Ke2 { [%eval 0.18] } 29... Ke7 { [%eval 0.15] } 30. f4
+{ [%eval 0.1] } 30... h6 { [%eval 0.1] } 31. Kf3 { [%eval 0.07] } 31... Rc7
+{ [%eval 0.11] } 32. g4 { [%eval -0.0] } 32... g5 { [%eval 0.0] } 33. Ke4
+{ [%eval -0.0] } 33... Rc8 { [%eval 0.0] } 1/2-1/2
+

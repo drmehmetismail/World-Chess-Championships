@@ -1,0 +1,39 @@
+[Event "FIDE World Championship Match 2013"]
+[Site "Chennai IND"]
+[Date "2021.11.29"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2870"]
+[BlackFideId "1503014"]
+[BlackTitle "GM"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation, Main Line"]
+[TimeControl "40/7200:20/3600:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:29:08"]
+[Variant "Standard"]
+[WhiteElo "2775"]
+[WhiteFideId "5000017"]
+[WhiteTitle "GM"]
+
+1. e4 { [%eval 0.27] } 1... c6 { [%eval 0.36] } 2. d4 { [%eval 0.38] } 2... d5
+{ [%eval 0.35] } 3. Nc3 { [%eval 0.18] } 3... dxe4 { [%eval 0.29] } 4. Nxe4
+{ [%eval 0.24] } 4... Bf5 { [%eval 0.37] } 5. Ng3 { [%eval 0.37] } 5... Bg6
+{ [%eval 0.3] } 6. h4 { [%eval 0.37] } 6... h6 { [%eval 0.31] } 7. Nf3
+{ [%eval 0.27] } 7... e6 { [%eval 0.39] } 8. Ne5 { [%eval 0.41] } 8... Bh7
+{ [%eval 0.3] } 9. Bd3 { [%eval 0.26] } 9... Bxd3 { [%eval 0.26] } 10. Qxd3
+{ [%eval 0.25] } 10... Nd7 { [%eval 0.29] } 11. f4 { [%eval 0.19] } 11... Bb4+
+{ [%eval 0.51] } 12. c3 { [%eval 0.35] } 12... Be7 { [%eval 0.39] } 13. Bd2
+{ [%eval 0.57] } 13... Ngf6 { [%eval 0.36] } 14. O-O-O { [%eval 0.23] } 14...
+O-O { [%eval 0.62] } 15. Ne4 { [%eval 0.24] } 15... Nxe4 { [%eval 0.11] } 16.
+Qxe4 { [%eval 0.09] } 16... Nxe5 { [%eval 0.09] } 17. fxe5 { [%eval 0.13] }
+17... Qd5 { [%eval 0.12] } 18. Qxd5 { [%eval 0.05] } 18... cxd5
+{ [%eval 0.09] } 19. h5 { [%eval 0.01] } 19... b5 { [%eval 0.03] } 20. Rh3
+{ [%eval -0.0] } 20... a5 { [%eval 0.0] } 21. Rf1 { [%eval -0.0] } 21... Rac8
+{ [%eval 0.0] } 22. Rg3 { [%eval -0.0] } 22... Kh7 { [%eval 0.0] } 23. Rgf3
+{ [%eval -0.0] } 23... Kg8 { [%eval 0.0] } 24. Rg3 { [%eval -0.0] } 24... Kh7
+{ [%eval 0.0] } 25. Rgf3 { [%eval -0.0] } 25... Kg8 { [%eval 0.0] } 1/2-1/2
+

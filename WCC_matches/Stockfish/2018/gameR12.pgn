@@ -1,0 +1,48 @@
+[Event "FIDE World Championship Match 2018"]
+[Site "London GBR"]
+[Date "2021.11.29"]
+[Round "12"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2835"]
+[BlackFideId "1503014"]
+[BlackTitle "GM"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+[TimeControl "40/6000:20/3000:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:44:25"]
+[Variant "Standard"]
+[WhiteElo "2832"]
+[WhiteFideId "2020009"]
+[WhiteTitle "GM"]
+
+1. e4 { [%eval 0.27] } 1... c5 { [%eval 0.3] } 2. Nf3 { [%eval 0.28] } 2... Nc6
+{ [%eval 0.23] } 3. d4 { [%eval 0.21] } 3... cxd4 { [%eval 0.22] } 4. Nxd4
+{ [%eval 0.29] } 4... Nf6 { [%eval 0.22] } 5. Nc3 { [%eval 0.25] } 5... e5
+{ [%eval 0.26] } 6. Ndb5 { [%eval 0.22] } 6... d6 { [%eval 0.21] } 7. Nd5
+{ [%eval 0.35] } 7... Nxd5 { [%eval 0.26] } 8. exd5 { [%eval 0.35] } 8... Ne7
+{ [%eval 0.33] } 9. c4 { [%eval 0.33] } 9... Ng6 { [%eval 0.58] } 10. Qa4
+{ [%eval 0.52] } 10... Bd7 { [%eval 0.48] } 11. Qb4 { [%eval 0.51] } 11... Bf5
+{ [%eval 0.47] } 12. h4 { [%eval 0.5] } 12... h5 { [%eval 0.51] } 13. Qa4
+{ [%eval 0.48] } 13... Bd7 { [%eval 0.48] } 14. Qb4 { [%eval 0.42] } 14... Bf5
+{ [%eval 0.43] } 15. Be3 { [%eval 0.32] } 15... a6 { [%eval 0.44] } 16. Nc3
+{ [%eval 0.45] } 16... Qc7 { [%eval 0.38] } 17. g3 { [%eval 0.35] } 17... Be7
+{ [%eval 0.33] } 18. f3 { [%eval 0.17] } 18... Nf8 { [%eval 0.18] } 19. Ne4
+{ [%eval 0.12] } 19... Nd7 { [%eval 0.23] } 20. Bd3 { [%eval 0.23] } 20... O-O
+{ [%eval 0.24] } 21. Rh2 $6 { [%eval -0.8] } ( 21. O-O Bg6 ) 21... Rac8
+{ [%eval -0.79] } 22. O-O-O { [%eval -0.63] } 22... Bg6 { [%eval -0.63] } 23.
+Rc2 { [%eval -0.57] } 23... f5 { [%eval -0.66] } 24. Nf2 { [%eval -0.61] }
+24... Nc5 { [%eval -0.42] } 25. f4 $6 { [%eval -1.2] } ( 25. Bxc5 dxc5 ) 25...
+a5 $2 { [%eval -0.61] } ( 25... exf4 26. Bxf4 b5 27. Qa3 Qb7 28. Qb4 Rfe8 29.
+Kb1 Rb8 30. Re2 Nxd3 31. Rxd3 bxc4 32. Qxb7 ) 26. Qd2 { [%eval -0.58] } 26...
+e4 $6 { [%eval -0.37] } ( 26... a4 27. Kb1 Bf6 28. Nh3 Rfe8 29. Ng5 b6 30. Qb4
+Bxg5 31. hxg5 Qe7 32. Qd2 Rb8 33. Bxc5 ) 27. Be2 { [%eval -0.45] } 27... Be8
+{ [%eval -0.43] } 28. Kb1 { [%eval -0.32] } 28... Bf6 { [%eval -0.21] } 29. Re1
+$2 { [%eval -1.82] } ( 29. Nh3 Ba4 30. b3 Qb6 31. Bd4 Bxd4 32. Qxd4 Bd7 33. Qc3
+Qa7 34. Qd4 ) 29... a4 $6 { [%eval -0.83] } ( 29... Ba4 ) 30. Qb4
+{ [%eval -0.89] } 30... g6 { [%eval -0.62] } 31. Rd1 { [%eval -0.54] } 31...
+Ra8 { [%eval -0.61] } 1/2-1/2
+

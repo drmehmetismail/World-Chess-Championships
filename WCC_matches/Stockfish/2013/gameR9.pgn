@@ -1,0 +1,46 @@
+[Event "FIDE World Championship Match 2013"]
+[Site "Chennai IND"]
+[Date "2021.11.29"]
+[Round "9"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[Annotator "https://lichess.org/@/Lichess"]
+[BlackElo "2870"]
+[BlackFideId "1503014"]
+[BlackTitle "GM"]
+[ECO "E25"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+[TimeControl "40/7200:20/3600:900+30"]
+[UTCDate "2021.11.29"]
+[UTCTime "21:29:08"]
+[Variant "Standard"]
+[WhiteElo "2775"]
+[WhiteFideId "5000017"]
+[WhiteTitle "GM"]
+
+1. d4 { [%eval 0.25] } 1... Nf6 { [%eval 0.27] } 2. c4 { [%eval 0.2] } 2... e6
+{ [%eval 0.15] } 3. Nc3 { [%eval 0.18] } 3... Bb4 { [%eval 0.19] } 4. f3
+{ [%eval 0.18] } 4... d5 { [%eval 0.12] } 5. a3 { [%eval 0.19] } 5... Bxc3+
+{ [%eval 0.19] } 6. bxc3 { [%eval 0.32] } 6... c5 { [%eval 0.37] } 7. cxd5
+{ [%eval 0.32] } 7... exd5 { [%eval 0.5] } 8. e3 { [%eval 0.54] } 8... c4
+{ [%eval 0.52] } 9. Ne2 $6 { [%eval 0.2] } ( 9. g4 Ng8 10. h4 Nc6 11. a4 h5 12.
+g5 Nge7 13. Ne2 Ng6 14. Ba3 Nce7 15. Kf2 Qc7 ) 9... Nc6 { [%eval 0.53] } 10. g4
+{ [%eval 0.57] } 10... O-O { [%eval 0.51] } 11. Bg2 { [%eval 0.57] } 11... Na5
+{ [%eval 0.54] } 12. O-O { [%eval 0.62] } 12... Nb3 { [%eval 0.54] } 13. Ra2
+{ [%eval 0.53] } 13... b5 { [%eval 0.44] } 14. Ng3 $6 { [%eval 0.18] } ( 14. e4
+dxe4 ) 14... a5 { [%eval 0.12] } 15. g5 { [%eval -0.17] } 15... Ne8
+{ [%eval -0.19] } 16. e4 { [%eval -0.08] } 16... Nxc1 { [%eval -0.05] } 17.
+Qxc1 { [%eval 0.01] } 17... Ra6 { [%eval 0.0] } 18. e5 { [%eval -0.3] } 18...
+Nc7 $2 { [%eval 0.61] } ( 18... g6 19. f4 ) 19. f4 { [%eval 0.68] } 19... b4
+{ [%eval 0.62] } 20. axb4 $6 { [%eval 0.36] } ( 20. f5 bxc3 ) 20... axb4
+{ [%eval 0.22] } 21. Rxa6 { [%eval 0.19] } 21... Nxa6 { [%eval 0.17] } 22. f5
+{ [%eval 0.09] } 22... b3 { [%eval 0.55] } 23. Qf4 { [%eval 0.6] } 23... Nc7 $6
+{ [%eval 0.6] } ( 23... Qa5 24. Qh4 Nc7 25. g6 fxg6 26. fxg6 Rxf1+ 27. Bxf1
+hxg6 28. Qd8+ Kh7 29. Qh4+ ) 24. f6 $6 { [%eval -0.47] } ( 24. h4 ) 24... g6
+{ [%eval 0.0] } 25. Qh4 { [%eval 0.36] } 25... Ne8 { [%eval 0.0] } 26. Qh6
+{ [%eval -0.0] } 26... b2 { [%eval 0.0] } 27. Rf4 { [%eval -0.0] } 27... b1=Q+
+{ [%eval 0.0] } 28. Nf1 $4 { [%eval -3.93] } ( 28. Bf1 Qd1 29. Rh4 Qh5 30. Nxh5
+gxh5 31. Rxh5 Bf5 32. Rh3 Bg6 33. Rg3 Qb6 34. h4 Qb1 ) 28... Qe1
+{ [%eval -4.25] } 0-1
+

@@ -1,0 +1,51 @@
+[Event "FIDE World Championship Match 2021"]
+[Site "Dubai UAE"]
+[Date "2021.11.27"]
+[Round "5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Annotator "https://lichess.org/@/cFlour"]
+[BlackElo "2855"]
+[BlackFideId "1503014"]
+[BlackTitle "GM"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed, Anti-Marshall"]
+[TimeControl "40/7200:20/3600:900+30"]
+[UTCDate "2021.11.27"]
+[UTCTime "09:02:01"]
+[Variant "Standard"]
+[WhiteElo "2782"]
+[WhiteFideId "4168119"]
+[WhiteTitle "GM"]
+
+1. e4 { [%eval 0.27] } 1... e5 { [%eval 0.28] } 2. Nf3 { [%eval 0.22] } 2...
+Nc6 { [%eval 0.2] } 3. Bb5 { [%eval 0.14] } 3... a6 { [%eval 0.23] } 4. Ba4
+{ [%eval 0.3] } 4... Nf6 { [%eval 0.24] } 5. O-O { [%eval 0.23] } 5... Be7
+{ [%eval 0.38] } 6. Re1 { [%eval 0.32] } 6... b5 { [%eval 0.42] } 7. Bb3
+{ [%eval 0.35] } 7... O-O { [%eval 0.32] } 8. a4 { [%eval 0.16] } 8... Rb8
+{ [%eval 0.26] } 9. axb5 { [%eval 0.22] } 9... axb5 { [%eval 0.17] } 10. h3
+{ [%eval 0.21] } 10... d6 { [%eval 0.21] } 11. c3 { [%eval 0.16] } 11... b4
+{ [%eval 0.22] } 12. d3 { [%eval 0.19] } 12... bxc3 { [%eval 0.22] } 13. bxc3
+{ [%eval 0.25] } 13... d5 { [%eval 0.22] } 14. Nbd2 { [%eval 0.04] } 14... dxe4
+{ [%eval 0.03] } 15. dxe4 { [%eval -0.0] } 15... Bd6 { [%eval 0.21] } 16. Qc2
+{ [%eval 0.01] } 16... h6 { [%eval 0.04] } 17. Nf1 { [%eval -0.0] } 17... Ne7
+{ [%eval 0.15] } 18. Ng3 { [%eval 0.22] } 18... Ng6 { [%eval 0.25] } 19. Be3
+{ [%eval 0.32] } 19... Qe8 { [%eval 0.38] } 20. Red1 { [%eval 0.14] } 20... Be6
+{ [%eval 0.15] } 21. Ba4 { [%eval 0.09] } 21... Bd7 { [%eval 0.09] } 22. Nd2
+{ [%eval 0.08] } 22... Bxa4 { [%eval 0.01] } 23. Qxa4 { [%eval 0.02] } 23...
+Qxa4 { [%eval 0.01] } 24. Rxa4 { [%eval 0.09] } 24... Ra8 { [%eval 0.07] } 25.
+Rda1 { [%eval 0.01] } 25... Rxa4 { [%eval 0.08] } 26. Rxa4 { [%eval 0.07] }
+26... Rb8 { [%eval 0.06] } 27. Ra6 { [%eval -0.0] } 27... Ne8 { [%eval 0.15] }
+28. Kf1 { [%eval 0.15] } 28... Nf8 { [%eval 0.18] } 29. Nf5 { [%eval 0.18] }
+29... Ne6 { [%eval 0.21] } 30. Nc4 { [%eval 0.2] } 30... Rd8 { [%eval 0.19] }
+31. f3 { [%eval 0.09] } 31... f6 { [%eval 0.02] } 32. g4 { [%eval -0.0] } 32...
+Kf7 { [%eval 0.0] } 33. h4 { [%eval -0.0] } 33... Bf8 { [%eval 0.0] } 34. Ke2
+{ [%eval -0.0] } 34... Nd6 { [%eval 0.0] } 35. Ncxd6+ { [%eval -0.0] } 35...
+Bxd6 { [%eval 0.0] } 36. h5 { [%eval -0.0] } 36... Bf8 { [%eval 0.0] } 37. Ra5
+{ [%eval -0.0] } 37... Ke8 { [%eval 0.0] } 38. Rd5 { [%eval -0.0] } 38... Ra8
+{ [%eval 0.0] } 39. Rd1 { [%eval -0.0] } 39... Ra2+ { [%eval 0.0] } 40. Rd2
+{ [%eval -0.0] } 40... Ra1 { [%eval 0.0] } 41. Rd1 { [%eval -0.0] } 41... Ra2+
+{ [%eval 0.0] } 42. Rd2 { [%eval -0.0] } 42... Ra1 { [%eval 0.0] } 43. Rd1
+{ [%eval -0.0] } 1/2-1/2
+
