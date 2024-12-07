@@ -1,0 +1,53 @@
+[Event "World Championship Match 1886"]
+[Site "New York USA"]
+[Date "2021.11.29"]
+[Round "1"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[UTCDate "2021.11.29"]
+[UTCTime "16:57:19"]
+[Variant "Standard"]
+
+1. d4 { [%eval 0.24] } 1... d5 { [%eval 0.25] } 2. c4 { [%eval 0.24] } 2... c6
+{ [%eval 0.23] } 3. e3 { [%eval 0.17] } 3... Bf5 { [%eval 0.2] } 4. Nc3
+{ [%eval 0.16] } 4... e6 { [%eval 0.12] } 5. Nf3 { [%eval 0.18] } 5... Nd7
+{ [%eval 0.2] } 6. a3 { [%eval -0.03] } 6... Bd6 { [%eval 0.1] } 7. c5
+{ [%eval -0.37] } 7... Bc7 { [%eval -0.37] } 8. b4 { [%eval -0.36] } 8... e5
+{ [%eval 0.06] } 9. Be2 $4 { [%eval -1.48] } ( 9. dxe5 ) 9... Ngf6 $4
+{ [%eval 0.01] } ( 9... e4 10. Nd2 h5 11. b5 Qg5 12. g3 Ne7 13. Qb3 Bg4 14. h3
+Bxe2 15. Nxe2 Qg6 16. Bb2 ) 10. Bb2 $6 { [%eval -1.08] } ( 10. dxe5 Nxe5 11.
+Nd4 Bd7 12. f4 Ng6 13. Qc2 O-O 14. O-O Qe7 15. h3 Rfe8 16. Bd3 b6 ) 10... e4
+{ [%eval -1.17] } 11. Nd2 { [%eval -1.16] } 11... h5 { [%eval -1.12] } 12. h3
+{ [%eval -1.05] } 12... Nf8 { [%eval -0.9] } 13. a4 { [%eval -1.18] } 13... Ng6
+{ [%eval -1.2] } 14. b5 { [%eval -1.23] } 14... Nh4 { [%eval -1.2] } 15. g3
+{ [%eval -1.24] } 15... Ng2+ { [%eval -1.34] } 16. Kf1 { [%eval -1.37] } 16...
+Nxe3+ { [%eval -1.36] } 17. fxe3 { [%eval -1.42] } 17... Bxg3 { [%eval -1.4] }
+18. Kg2 { [%eval -1.36] } 18... Bc7 $6 { [%eval -0.84] } ( 18... Qb8 19. Qf1
+Bd7 20. Rg1 h4 21. Kh1 Qc8 22. bxc6 bxc6 23. Ba6 Qc7 24. Ne2 Nh5 25. Bc3 ) 19.
+Qg1 $4 { [%eval -2.39] } ( 19. Qf1 Be6 ) 19... Rh6 { [%eval -2.7] } 20. Kf1
+{ [%eval -2.56] } 20... Rg6 { [%eval -2.79] } 21. Qf2 { [%eval -2.88] } 21...
+Qd7 $6 { [%eval -2.28] } ( 21... Bd7 ) 22. bxc6 $6 { [%eval -3.19] } ( 22. Rg1
+) 22... bxc6 { [%eval -3.3] } 23. Rg1 { [%eval -3.19] } 23... Bxh3+
+{ [%eval -3.2] } 24. Ke1 { [%eval -3.19] } 24... Ng4 { [%eval -3.24] } 25. Bxg4
+{ [%eval -3.23] } 25... Bxg4 { [%eval -3.19] } 26. Ne2 { [%eval -3.3] } 26...
+Qe7 { [%eval -3.07] } 27. Nf4 { [%eval -3.4] } 27... Rh6 { [%eval -3.35] } 28.
+Bc3 { [%eval -3.41] } 28... g5 { [%eval -3.21] } 29. Ne2 { [%eval -3.36] }
+29... Rf6 { [%eval -3.46] } 30. Qg2 { [%eval -3.62] } 30... Rf3
+{ [%eval -3.6] } 31. Nf1 { [%eval -3.64] } 31... Rb8 { [%eval -3.63] } 32. Kd2
+{ [%eval -4.24] } 32... f5 $2 { [%eval -3.03] } ( 32... Qf6 33. Ke1 ) 33. a5 $4
+{ [%eval -4.36] } ( 33. Nh2 Qe6 34. Rgf1 f4 35. Nxf3 fxe3+ 36. Kc1 exf3 37.
+Rxf3 Bxf3 38. Qxf3 g4 39. Qf1 h4 ) 33... f4 { [%eval -4.26] } 34. Rh1
+{ [%eval -4.98] } 34... Qf7 { [%eval -4.91] } 35. Re1 { [%eval -5.51] } 35...
+fxe3+ { [%eval -5.69] } 36. Nxe3 { [%eval -5.71] } 36... Rf2 { [%eval -5.73] }
+37. Qxf2 { [%eval -5.93] } 37... Qxf2 { [%eval -6.23] } 38. Nxg4
+{ [%eval -6.39] } 38... Bf4+ { [%eval -6.29] } 39. Kc2 { [%eval -6.41] } 39...
+hxg4 { [%eval -6.79] } 40. Bd2 { [%eval -7.87] } 40... e3 { [%eval -7.06] } 41.
+Bc1 { [%eval -7.9] } 41... Qg2 { [%eval -6.22] } 42. Kc3 { [%eval -7.26] }
+42... Kd7 { [%eval -6.27] } 43. Rh7+ { [%eval -7.48] } 43... Ke6
+{ [%eval -7.88] } 44. Rh6+ { [%eval -8.67] } 44... Kf5 { [%eval -8.91] } 45.
+Bxe3 { [%eval -10.74] } 45... Bxe3 { [%eval -11.07] } 46. Rf1+ $6
+{ [%eval -99.89] } ( 46. Rh8 Rxh8 ) 46... Bf4 { [%eval -99.89] } 0-1
+
