@@ -66,6 +66,7 @@ The following Python libraries are used:
 ### 10. `WCC_matches` folder
 - As an example, this folder contains Magnus Carlsen's World Chess Championship matches, analyzed with Stockfish 17 at depth 27.
 - It also contains two games analyzed with Leela Chess Zero with nodes_limit = 2500. This is for the sake of illustration, as no meaningful conclusions can be derived from these two games at this nodes level.
+- In any case, I believe Lichess's games are more deeply analyzed: https://lichess.org/page/world-championships.
 ---
 
 ## Reference
