@@ -64,9 +64,9 @@ The following Python libraries are used:
 - **Purpose**: Focused on analyzing World Chess Championship data. Exports a graph of average missed points over the years.
 
 ### 10. `WCC_matches` folder
-- As an example, this folder contains Magnus Carlsen's World Chess Championship matches, analyzed with Stockfish 17 at depth 27.
-- It also contains two games analyzed with Leela Chess Zero with nodes_limit = 2500. This is for the sake of illustration, as no meaningful conclusions can be derived from these two games at this nodes level.
-- In any case, I believe Lichess's games are more deeply analyzed: https://lichess.org/page/world-championships.
+- Download the pre-analyzed matches from https://lichess.org/page/world-championships.
+- This folder currently contains a few games analyzed with Stockfish 17 depth 25 and Leela Chess Zero with nodes_limit = 2500. This is for the sake of illustration, as no meaningful conclusions can be derived from these Lc0-analyzed games at this level.
+
 ---
 
 ## Reference
